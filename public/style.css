@@ -1,0 +1,79 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+}
+
+.issue {
+  margin: 20px;
+  padding: 5px;
+  width: 60%;
+  border: 2px solid black;
+}
+
+.closed {
+  background-color: lightgrey;
+}
+
+.id {
+  font-size: 10.5px;
+}
+
+#userstories {
+  margin-left: 5%; 
+  margin-top: 5%;
+}
+hr.margin-50 {
+  margin: 50px;
+}
+#testui {
+  margin-left: 5%;
+}
+h2.h2-left {
+  text-align: left;
+}
+input.issue-title-issue {
+  width: 320px; 
+  margin-bottom: 3px;
+}
+input.issue-title-index {
+  width: 100px;
+}
+textarea.issue-text-index {
+  width: 100px;
+}
+input.create-by-index {
+  width: 100px;
+}
+input.assigned-to-index {
+  width: 100px;
+}
+input.status-text-index {
+  width: 100px;
+}
+input.id-index {
+  width: 100px;
+}
+hr.margin-50-200{
+  margin: 50px; margin-top: 200px;
+}
+input.issue-text-issue {
+  width: 320px; 
+  height: 100px;
+}
+input.created-by-issue {
+  width: 100px;
+}
+input.assigned-to-issue {
+  width: 100px;
+}
+input.status-text-issue {
+  width: 100px;
+}
+p.center-p {
+  display: flex;
+  justify-content: center;
+}
